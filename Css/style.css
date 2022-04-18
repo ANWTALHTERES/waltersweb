@@ -1,0 +1,68 @@
+
+body {
+    background: rgb(207, 191, 239);
+
+}
+h1 { color: rgb(248, 101, 189);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+    top: 25px;
+
+}
+
+#contain {
+    color: rgb(6, 7, 8);
+    font-size: 13px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    top: 160px;
+    left: 150px;
+}
+
+h2 {
+    color: rgb(3, 17, 17);
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 13px; 
+  
+}
+
+h4 {
+    color: rgb(78, 6, 100);
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 14px; 
+    
+  top: 300px; ;
+  left: 300px;
+  
+}
+
+
+
+img { 
+    width: 250px;
+    height: 400px;
+    top: 200px;
+    left: 95px;
+
+}
+
+#cat1 
+{ 
+    width: 250px;
+    height: 400px;
+    top: 500px;
+    left: 255px;
+position: absolute;
+}
+
+
+#dog2 
+{ 
+    width: 250px;
+    height: 400px;
+    top: 600px;
+    left: 480px;
+position: absolute;
+}
+
+    

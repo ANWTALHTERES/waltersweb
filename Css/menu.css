@@ -1,0 +1,29 @@
+body {
+    background: rgb(207, 191, 239);
+
+}
+
+
+h1 { color: rgb(248, 101, 189);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+    top: 25px;
+
+}
+h2 {
+    color: rgb(3, 17, 17);
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 15px; 
+    position: absolute;
+    top: 500px ;
+    left: 600px; 
+  
+}
+
+img { 
+    width: 500px;
+    height: 800px;
+    position: absolute;
+    top: 120px;
+    left: 20px;
+}
